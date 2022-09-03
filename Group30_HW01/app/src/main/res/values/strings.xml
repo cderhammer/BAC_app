@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">BAC Calculator</string>
+
+    <string name="textLabelWeight">Weight (lbs):</string>
+    <string name="editTextWeightHint">Enter weight</string>
+
+    <string name="textLabelGender">Gender:</string>
+    <string name="radioButtonFemale">Female</string>
+    <string name="radioButtonMale">Male</string>
+
+    <string name="buttonSetWeight">Set Weight</string>
+
+    <string name="textLabelWeightGender">Weight:</string>
+
+    <string name="textLabelDrinkSize">Drink Size:</string>
+    <string name="radioButtonOneOunce">1 oz</string>
+    <string name="radioButtonFiveOunce">5 oz</string>
+    <string name="radioButtonTwelveOunce">12 oz</string>
+
+    <string name="textLabelAlcPercent">Alcohol %:</string>
+    <string name="textLabelAlcPercentDefault">15%</string>
+
+    <string name="buttonReset">Reset</string>
+    <string name="buttonAddDrink">Add Drink</string>
+
+    <string name="textLabelDrinks"># Drinks:</string>
+    <string name="textLabelDefaultNumDrinks">0</string>
+    <string name="textLabelBAC">BAC Level:</string>
+    <string name="textLabelDefaultBAC">0.000</string>
+
+    <string name="textLabelYourStatus">Your Status:</string>
+    <string name="textLabelStatusGreen">You\'re Safe</string>
+    <string name="textLabelStatusOrange">Be careful</string>
+    <string name="textLabelStatusRed">Over the limit!</string>
+</resources>
